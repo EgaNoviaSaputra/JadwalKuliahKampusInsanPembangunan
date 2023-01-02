@@ -1,0 +1,4 @@
+#Tue Jul 12 13:09:46 ICT 2022
+base.0=C\:\\Users\\saput\\OneDrive\\Desktop\\belajarfirebas\\insanpembangunan_stmik\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
